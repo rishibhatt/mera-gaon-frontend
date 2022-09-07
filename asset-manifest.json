@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mera-gaon-frontend/static/css/main.3736c4de.css",
-    "main.js": "/mera-gaon-frontend/static/js/main.91ebc1d8.js",
+    "main.css": "/mera-gaon-frontend/static/css/main.d9c57533.css",
+    "main.js": "/mera-gaon-frontend/static/js/main.15974c3c.js",
     "static/media/HeroImage.jpg": "/mera-gaon-frontend/static/media/HeroImage.36adcf3f3dc95bf46e6a.jpg",
     "static/media/FooterImage.svg": "/mera-gaon-frontend/static/media/FooterImage.893d6fa98f6f4988ad200bcb0eef17b9.svg",
     "index.html": "/mera-gaon-frontend/index.html",
-    "main.3736c4de.css.map": "/mera-gaon-frontend/static/css/main.3736c4de.css.map",
-    "main.91ebc1d8.js.map": "/mera-gaon-frontend/static/js/main.91ebc1d8.js.map"
+    "main.d9c57533.css.map": "/mera-gaon-frontend/static/css/main.d9c57533.css.map",
+    "main.15974c3c.js.map": "/mera-gaon-frontend/static/js/main.15974c3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3736c4de.css",
-    "static/js/main.91ebc1d8.js"
+    "static/css/main.d9c57533.css",
+    "static/js/main.15974c3c.js"
   ]
 }
