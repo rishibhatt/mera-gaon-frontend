@@ -1,0 +1,10 @@
+.blog-container
+{
+    border: 2px solid black;
+    transition: box-shadow 0.3s ease-in-out;
+}
+.blog-container:hover
+{
+    scale: 1.02;
+    box-shadow: 10px 10px;
+}

@@ -1,0 +1,22 @@
+.nav-items
+{
+    width: 70%;
+    justify-content: space-around;
+}
+.menu-bar
+{
+    z-index: 999;
+}
+.mobile-nav 
+{
+    width:35%;
+    border: 2px solid black;
+    text-align: center;
+    background-color: #edf2f4;
+}
+
+.mobile-nav h3
+{
+    padding: 10px;
+}
+
