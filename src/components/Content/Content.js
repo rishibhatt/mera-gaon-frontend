@@ -3,7 +3,7 @@ import React from 'react'
 const Content = () => {
     return (
         <>
-            <div className='content-container justify-center flex flex-col xs:flex-row bg-white'>
+            <div className='content-container justify-center flex flex-wrap lg:flex-nowrap flex-col sm:flex-row bg-white'>
                 <div className='content-text mt-10 p-20'>
                     <p className='text-lg font-rubik text-gray-900 sm:text-3xl sm:tracking-widest'>
                     Village residents, local businesses and local public institutions can sign up for their village's own private network and interact with each other regarding matters concerning the local community.<br /><br/>
@@ -15,7 +15,7 @@ Whether you have a new business or you want to advertise your goods and share ab
                     </p>
                     
                 </div>
-                <div className='content-card ml-20 bg-white flex flex-col items-center p-4 shadow-lg rounded-2xl w-60 mb-10  xs:mr-20 xs:mt-16 '>
+                <div className='content-card ml-20 bg-white flex flex-col items-center p-4 shadow-lg rounded-2xl w-60 mb-10  sm:mr-20 sm:mt-16 '>
                     <div className='card-image '>
                         <img alt='profile' src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg' />
                     </div>

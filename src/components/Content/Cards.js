@@ -8,10 +8,10 @@ const Cards = () => {
                 <h2 className='text-white p-5 text-center font-rubik xs:text-2xl xs:pt-12'>Stay connected to your village online in a safe and secure environment  ✨ </h2>
             </div>
 
-            <h1 className='font-bold font-mono text-center text-3xl mt-10 xs:text-5xl'>Related Articles</h1>
+            <h1 className='font-bold font-mono text-center text-3xl mt-10 sm:text-5xl'>Related Articles</h1>
 
-            <div className='blog-sup pb-5  xs:flex xs:flex-row'>
-                <div className='blog-container border border-black flex flex-col justify-center items-center w-72 bg-white ml-20 mt-20 p-3 xs:w-96'>
+            <div className='blog-sup pb-5 md:ml-10 flex-wrap sm:flex sm:flex-row'>
+                <div className='blog-container border border-black flex flex-col justify-center items-center w-72 bg-white ml-12 mt-20 p-3 xs:w-96'>
                     <div className='blog-img'>
                         <img className='' src='https://images.pexels.com/photos/3831847/pexels-photo-3831847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2' />
                     </div>
@@ -28,7 +28,7 @@ const Cards = () => {
                     </div>
 
                 </div>
-                <div className='blog-container flex flex-col justify-center items-center w-72 bg-white ml-20 mt-20 p-3 xs:w-96'>
+                <div className='blog-container flex flex-col justify-center items-center w-72 bg-white ml-12 mt-20 p-3 xs:w-96'>
                     <div className='blog-img'>
                         <img className='' src='https://images.pexels.com/photos/3831847/pexels-photo-3831847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2' />
                     </div>
@@ -45,7 +45,7 @@ const Cards = () => {
                     </div>
 
                 </div>
-                <div className='blog-container flex flex-col justify-center items-center w-72 bg-white ml-20 mt-20 p-3  xs:w-96'>
+                <div className='blog-container flex flex-col justify-center items-center w-72 bg-white ml-12 mt-20 p-3  xs:w-96'>
                     <div className='blog-img'>
                         <img className='' src='https://images.pexels.com/photos/3831847/pexels-photo-3831847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2' />
                     </div>

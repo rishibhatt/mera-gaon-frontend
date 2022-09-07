@@ -24,7 +24,7 @@ const Navbar = () => {
                 <div className='p-7 text-black flex flex-row justify-between'>
                     <h1 className='brand-name font-bold font-rubik text-xl sm:text-3xl pl-5'>MERA <span className='bg-black text-white p-1' >GAON</span></h1>
 
-                    <button className='menu-bar xs:hidden' onClick={toggleBtn}>
+                    <button className='menu-bar md:hidden' onClick={toggleBtn}>
                        {menuIcon}
                     </button>
 
@@ -50,7 +50,7 @@ const Navbar = () => {
                     } 
 
 
-                    <div className='nav-items hidden xs:flex flex-row p-2'>
+                    <div className='nav-items hidden md:flex flex-row p-2'>
                         <a href='#' className='hover:underline underline-offset-4 decoration-4 decoration-black hover:ease-in hover:duration-500'><h3>
                             Home
                         </h3></a>
